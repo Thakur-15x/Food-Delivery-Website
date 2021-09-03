@@ -1,2 +1,2 @@
 # Food-Delivery-Website
- A simple food delivery Website
+ A single page food delivery Website with responsive in all devices.
