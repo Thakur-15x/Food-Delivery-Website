@@ -1,2 +1,2 @@
-# Food-Delivery-Website
- A single page food Website. Responsive in all browsers and devices.
+# Front-End
+ A single page frontend food Website. Responsive in all browsers and devices.
